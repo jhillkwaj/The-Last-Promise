@@ -6,4 +6,4 @@ The game was created by the Techs:
 Justin- Team Lead, Code 
 Amir- Documentation Presenation 
 Mohit- Art
-Art Jeevan- Documentation
+Jeevan- Documentation
