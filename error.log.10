@@ -1,0 +1,12 @@
+Dec 30, 2012 5:05:39 PM thelastpromise.LogHandling logMessage
+INFO: Log started
+Dec 30, 2012 5:05:40 PM thelastpromise.LogHandling logMessage
+INFO: Main Menu Opened
+Dec 30, 2012 5:05:41 PM thelastpromise.LogHandling logMessage
+INFO: Main Done
+Dec 30, 2012 5:05:42 PM thelastpromise.LogHandling logMessage
+INFO: Start Menu Opened
+Dec 30, 2012 5:05:43 PM thelastpromise.LogHandling logError
+WARNING: Warning Message
+Dec 30, 2012 5:05:46 PM thelastpromise.LogHandling logMessage
+INFO: Error Logged

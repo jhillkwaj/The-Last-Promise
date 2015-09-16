@@ -1,0 +1,2060 @@
+*---*
+101
+19
+19
+Grass
+0
+0
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+0
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+0
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+0
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+4
+0
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+5
+0
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+6
+0
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+7
+0
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+8
+0
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Water
+9
+0
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+0
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+0
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+0
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+0
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+14
+0
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+15
+0
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+16
+0
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+0
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+0
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+0
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+0
+1
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+1
+1
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+1
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+1
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+1
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+1
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+1
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+1
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+1
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+9
+1
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+10
+1
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+1
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+1
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+1
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+1
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+1
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+1
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+17
+1
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+18
+1
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Gold Mine
+19
+1
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+0
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+1
+2
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+2
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+3
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+4
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+5
+2
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+6
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+7
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+8
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+9
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+10
+2
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+2
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+2
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+13
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+14
+2
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+15
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+16
+2
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+2
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+2
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+19
+2
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+0
+3
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+3
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+3
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+3
+3
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+3
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+3
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+6
+3
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Gold Mine
+7
+3
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+8
+3
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+9
+3
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+10
+3
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+11
+3
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+3
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+3
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+14
+3
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+15
+3
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+3
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+3
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+3
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+3
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+4
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+1
+4
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+2
+4
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+4
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+4
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+4
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+4
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+4
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+4
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+4
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+10
+4
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+4
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+4
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+4
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+4
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+4
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+16
+4
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+4
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+4
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+4
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+0
+5
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+1
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+2
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+3
+5
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+4
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+5
+5
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+5
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+7
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+8
+5
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+9
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+10
+5
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+5
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+5
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+5
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+5
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+15
+5
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+16
+5
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+5
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+5
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+5
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+0
+6
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+6
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+3
+6
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+4
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+6
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+6
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+6
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+6
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+6
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+6
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+14
+6
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+15
+6
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+6
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+17
+6
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+18
+6
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+6
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+0
+7
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+1
+7
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+2
+7
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+7
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+7
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+7
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+7
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+7
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+7
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+7
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+10
+7
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+11
+7
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+7
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+13
+7
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+7
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+15
+7
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+16
+7
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+7
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+7
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+7
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+8
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+1
+8
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+2
+8
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+3
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+4
+8
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+8
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+8
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+8
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+8
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+8
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+8
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+8
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+8
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+8
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+8
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+8
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+0
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+1
+9
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+9
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+9
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+4
+9
+BufferedImage@1e4f66a: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+9
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+6
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+7
+9
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+8
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+9
+9
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+9
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+9
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+9
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+13
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+14
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+15
+9
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+9
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+9
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+9
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+9
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+0
+10
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+10
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+10
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+10
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+10
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+10
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+10
+10
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+10
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+10
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+10
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+10
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+17
+10
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+18
+10
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+19
+10
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+0
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+1
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Water
+2
+11
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+3
+11
+BufferedImage@1e4f66a: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+4
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+5
+11
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+6
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+7
+11
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+11
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+9
+11
+BufferedImage@1e4f66a: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+11
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+11
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+12
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+13
+11
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+11
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+11
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+11
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+17
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+18
+11
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+11
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+0
+12
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+5
+12
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+6
+12
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+7
+12
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+8
+12
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+12
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+14
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+12
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+18
+12
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+12
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+13
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+13
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+13
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+13
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+5
+13
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+6
+13
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Gold Mine
+7
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+8
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+13
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+13
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+13
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+14
+13
+BufferedImage@1e4f66a: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+13
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+16
+13
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+17
+13
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+18
+13
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+13
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+0
+14
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+1
+14
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+2
+14
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+14
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+14
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+14
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+14
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+14
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+14
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+14
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+14
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+17
+14
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+14
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+19
+14
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+0
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+15
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+2
+15
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+3
+15
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+15
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+15
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+9
+15
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+10
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+11
+15
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+12
+15
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+15
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+15
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+16
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+17
+15
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+15
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+2
+16
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+3
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+5
+16
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+6
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+16
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+16
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+11
+16
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+12
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+16
+16
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+17
+16
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+18
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+16
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Water
+0
+17
+BufferedImage@10aefdb: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+17
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+17
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+3
+17
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+4
+17
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+17
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+17
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+17
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+17
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+13
+17
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Forest
+14
+17
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+15
+17
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+16
+17
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+17
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+17
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+18
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+1
+18
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+2
+18
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+3
+18
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+4
+18
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+18
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+18
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+18
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+8
+18
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+9
+18
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+18
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+18
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+12
+18
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+13
+18
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+14
+18
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+15
+18
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+16
+18
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+18
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+18
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Gold Mine
+19
+18
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+0
+19
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+1
+19
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+2
+19
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+3
+19
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+4
+19
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+5
+19
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+6
+19
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+7
+19
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+8
+19
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+9
+19
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+10
+19
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+11
+19
+BufferedImage@10948bd: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+12
+19
+BufferedImage@1ccf342: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+13
+19
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+14
+19
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+15
+19
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Forest
+16
+19
+BufferedImage@5b02a6: type = 12 IndexColorModel: #pixelBits = 4 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 transIndex   = -1 has alpha = false isAlphaPre = false BytePackedRaster: width = 63 height = 64 #channels 1 xOff = 0 yOff = 0
+*Tile*
+Grass
+17
+19
+BufferedImage@1087359: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+18
+19
+BufferedImage@16c14e7: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 62 #numDataElements 3 dataOff[0] = 0
+*Tile*
+Grass
+19
+19
+BufferedImage@7691c0: type = 0 ColorModel: #pixelBits = 24 numComponents = 3 color space = java.awt.color.ICC_ColorSpace@d0726d transparency = 1 has alpha = false isAlphaPre = false ByteInterleavedRaster: width = 64 height = 64 #numDataElements 3 dataOff[0] = 0
+*Tile*
+*Players*
+2
+Azdens
+900
+1
+true
+*Units*
+2
+Castle
+Castle
+Building
+Level 1 
+4
+4
+100
+100
+0
+0
+0
+*Unit*
+Swordsman
+Swordsman
+Attack Unit
+
+5
+5
+35
+30
+0
+0
+6
+20
+5
+*Unit*
+*Player*
+The Society of Souls
+990
+1
+false
+0.5263806
+8
+*Units*
+1
+Mages Tower
+Mages Tower
+Building
+Level 1 
+15
+15
+80
+80
+0
+0
+0
+*Unit*
+*Player*
